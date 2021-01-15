@@ -6,8 +6,12 @@ This bot was put together as a small project to make easy tasks even easier. Wit
 flipping a coin, formulating a poll, creating an online chess match, or comparing stats and positions in ranking on the
 popular game League of Legends can be done in simple text commands on the discord server the bot is on.
 
-This bot was made with use of the Discord.js library as well as the Node.js library for the server. User data was stored
-in a local MongoDB client.
+This project was intended to help me build a strong grasp on using Node.js effectively, as well as working with different
+APIs and getting comfortable making GET and POST requests. The APIs I worked with in this project were the Riot Games
+League of Legends API as well as the Lichess API.
+
+This bot was made with the use of the Discord.js library as well as the Node.js library for the server. Axios was used to
+make API calls. User data was stored in a local MongoDB client.
 
 Further improvements in the future will include:
 
