@@ -1,6 +1,6 @@
 # Chess and League Bot
 
-##A discord bot made to cater to my friend group.
+## A discord bot made to cater to my friend group.
 
 This bot was put together as a small project to make easy tasks even easier. With this bot, things like
 flipping a coin, formulating a poll, creating an online chess match, or comparing stats and positions in ranking on the
