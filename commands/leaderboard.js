@@ -10,7 +10,7 @@ module.exports = {
     async execute(message, args, client) {
 
         if (args[0] === 'add') { //add a player to the leaderboard
-            const summonerName = args[1];
+            const summonerName = args.slice(1).join(' ');
             const [tier, division, leaguePoints] = await getDetails(summonerName);
             const pointValue = generatePointValue(tier, division, leaguePoints);
             await updateRank(summonerName, tier, division, leaguePoints, pointValue);
