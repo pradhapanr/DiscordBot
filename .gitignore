@@ -104,4 +104,7 @@ dist
 .tern-port
 
 #config file
-./config.json
+/config.json
+
+#vscode settings
+/.vscode
