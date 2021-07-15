@@ -15,6 +15,8 @@ make API calls. User data was stored in a local MongoDB client.
 
 ### Setup
 -----
+<strong>THIS BOT IS NOT READY FOR FULL DEPLOYMENT. ONLY RUN THIS FOR EXPERIMENTATION OR FURTHERING THE DEVELOPMENT OF IT.</strong>
+
 After pulling code to a local repository on the machine you are hosting the bot on simply run the command:
 
 ````
