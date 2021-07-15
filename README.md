@@ -14,7 +14,7 @@ This bot was made with the use of the Discord.js library as well as Node.js for 
 make API calls. User data was stored in a local MongoDB client.
 
 ### Setup
-
+-----
 After pulling code to a local repository on the machine you are hosting the bot on simply run the command:
 
 ````
