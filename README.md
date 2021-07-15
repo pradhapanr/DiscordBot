@@ -17,7 +17,9 @@ make API calls. User data was stored in a local MongoDB client.
 
 After pulling code to a local repository on the machine you are hosting the bot on simply run the command:
 
-  node main.js
+````
+ node main.js
+````
 
 Further improvements in the future will include:
 
