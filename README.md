@@ -10,8 +10,14 @@ This project was intended to help me build a strong grasp on using some of Javas
 APIs and getting comfortable making GET and POST requests. The APIs I worked with in this project were the Riot Games
 League of Legends API as well as the Lichess API.
 
-This bot was made with the use of the Discord.js library as well as the Express.js library for managing the server. Axios was used to
+This bot was made with the use of the Discord.js library as well as Node.js for managing the server. Axios was used to
 make API calls. User data was stored in a local MongoDB client.
+
+### Setup
+
+After pulling code to a local repository on the machine you are hosting the bot on simply run the command:
+
+  node main.js
 
 Further improvements in the future will include:
 
