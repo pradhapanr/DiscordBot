@@ -55,7 +55,7 @@ by opening the terminal in the directory containing the project and running the 
 
 Once the bot is live, use the help command to view the available supported commands at this time.
 
-###Future Additions/Changes
+### Future Additions/Changes
 -----
 -   Listing most recently played League of Legends game with details!
 -   Recording chess games with a win/loss counter for each user!
