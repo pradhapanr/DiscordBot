@@ -40,7 +40,7 @@ prefix as not to interfere with other bots.
 
 The token variable is the discord token / API key.
 
-The mongoPath variable is the file path to where the mongo database is located. **(THIS WILL BE DEPRECATED AND WILL BE SWAPPING IT TO MONGO ATLAS (cloud database) ASAP)**
+The mongoPath variable is the file path to where the mongo database is located. **(THIS WILL BE DEPRECATED AND WILL BE SWAPPING IT TO MONGO ATLAS ASAP)**
 
 The riotKey variable is a Riot Games League of Legends API Key. Valorant support for this bot will be 
 added in the future.
