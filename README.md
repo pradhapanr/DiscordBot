@@ -1,6 +1,6 @@
 # Chess and League Bot
 
-### A discord bot made to cater to a particular friend group.
+### A discord bot made for the BComp Hackathon.
 
 This bot was put together as a small project to make easy tasks even easier. With this bot, things like
 flipping a coin, formulating a poll, creating an online chess match, or comparing stats and positions in ranking on the
@@ -53,8 +53,10 @@ by opening the terminal in the directory containing the project and running the 
  node main.js
 ````
 
-Further improvements in the future will include:
+Once the bot is live, use the help command to view the available supported commands at this time.
 
+###Future Additions/Changes
+-----
 -   Listing most recently played League of Legends game with details!
 -   Recording chess games with a win/loss counter for each user!
 -   Experience system (based on the amount a user interacts in the server)
