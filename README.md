@@ -35,11 +35,24 @@ the repository, and looks like this.
 }
 ```
 
+Note that the prefix by default is the hyphen key. This can be changed, but I would suggest an uncommon 
+prefix as not to interfere with other bots.
+
+The token variable is the discord token / API key.
+
+The mongoPath variable is the file path to where the mongo database is located.
+**THIS WILL BE DEPRECATED AND WILL BE SWAPPING IT TO MONGO ATLAS (cloud database) ASAP**
+
+The riotKey variable is a Riot Games League of Legends API Key. Valorant support for this bot will be 
+added in the future.
+
+
+Once the config.json file is set up appropriately, you should now be able to run the bot! This can be done
+by opening the terminal in the directory containing the project and running the command: 
+
 ````
  node main.js
 ````
-
-
 
 Further improvements in the future will include:
 
