@@ -15,13 +15,31 @@ make API calls. User data was stored in a local MongoDB client.
 
 ### Setup
 -----
-<strong>THIS BOT IS NOT READY FOR FULL DEPLOYMENT. ONLY RUN THIS FOR EXPERIMENTATION OR FURTHERING THE DEVELOPMENT OF IT.</strong>
+<strong>THIS BOT IS NOT READY FOR FULL DEPLOYMENT. ONLY RUN THIS FOR EXPERIMENTATION OR AIDING DEVELOPMENT.</strong>
 
-After pulling code to a local repository on the machine you are hosting the bot on simply run the command:
+I strongly suggest testing the bot in a demo server first before adding to any official servers. The setup for the bot
+can be found under the following link provided by the official DiscordJS team.
+
+https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link
+
+After setting up the bot appropriately, you will need to create a config.json file. This will hold any
+important API keys and passwords that the bot requires on YOUR end. The sample code for this is found in
+the repository, and looks like this.
+
+```js
+{   
+    "token": "",
+    "prefix": "-",
+    "mongoPath": "",
+    "riotKey": ""
+}
+```
 
 ````
  node main.js
 ````
+
+
 
 Further improvements in the future will include:
 
